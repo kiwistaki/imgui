@@ -1,3 +1,14 @@
+# Directories
+bin/
+obj/
+
+## Ignore Visual Studio files and folders
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
 ## OSX artifacts
 .DS_Store
 
